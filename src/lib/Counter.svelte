@@ -121,5 +121,5 @@
 
   <input type="email" placeholder="Email adresinizi girin" />
   <button>Bekleme Listesine Katıl</button>
-  <p class="note">SihriTen'i ilk deneyimleyen siz olun.<br>Gizliliğinize saygı duyuyoruz. Spam yok—istediğiniz zaman abonelikten çıkabilirsiniz.</p>
+  <p class="note">SihriTen'i ilk deneyimleyen siz olun.</p>
 </div>

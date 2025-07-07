@@ -21,7 +21,7 @@
 </main>
 
 <footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+	<p class="note">Gizliliğinize saygı duyuyoruz. Spam yok—istediğiniz zaman abonelikten çıkabilirsiniz.</p>
 </footer>
 
 <style>
