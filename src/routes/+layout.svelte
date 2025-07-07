@@ -1,5 +1,4 @@
 <script>
-	import Header from '$lib/header/Header.svelte';
   import { webVitals } from '$lib/vitals';
   import { browser } from '$app/env';
   import { page } from '$app/stores';
@@ -16,7 +15,6 @@
   }
 </script>
 
-<Header />
 
 <main>
 	<slot />
