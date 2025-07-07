@@ -4,6 +4,10 @@
 
 
 
+<section>
+	<Counter />
+</section>
+
 <style>
 	section {
 		display: flex;
