@@ -107,7 +107,7 @@
   }
 
   #header{
-    font-size: 5rem;
+    font-size: 8rem;
 
   }
 
