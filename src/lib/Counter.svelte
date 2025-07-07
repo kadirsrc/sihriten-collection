@@ -105,10 +105,17 @@
     color: #777;
     margin-top: 1rem;
   }
+
+  #header{
+    font-size: 5rem;
+
+  }
+
+
 </style>
 
 <div class="container">
-  <h1><span>SihriTen</span> demleniyor...</h1>
+  <h1><span id="header">SihriTen</span> demleniyor...</h1>
   <h2>Büyüleyici iç giyim yakında Türkiye'de.</h2>
   <p><strong>Listede kalın.</strong></p>
 
