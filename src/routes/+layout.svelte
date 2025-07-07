@@ -48,6 +48,12 @@
 		font-weight: bold;
 	}
 
+	footer .note {
+    font-size: 0.85rem;
+    color: #777;
+    margin-top: 1rem;
+  	}
+
 	@media (min-width: 480px) {
 		footer {
 			padding: 40px 0;
