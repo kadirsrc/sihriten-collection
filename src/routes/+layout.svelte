@@ -1,5 +1,4 @@
 <script>
-	import Header from '$lib/header/Header.svelte';
   import { webVitals } from '$lib/vitals';
   import { browser } from '$app/env';
   import { page } from '$app/stores';
@@ -16,14 +15,13 @@
   }
 </script>
 
-<Header />
 
 <main>
 	<slot />
 </main>
 
 <footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+	<p class="note">Gizliliğinize saygı duyuyoruz. Spam yok—istediğiniz zaman abonelikten çıkabilirsiniz.</p>
 </footer>
 
 <style>
@@ -49,6 +47,12 @@
 	footer a {
 		font-weight: bold;
 	}
+
+	footer .note {
+    font-size: 0.85rem;
+    color: #777;
+    margin-top: 1rem;
+  	}
 
 	@media (min-width: 480px) {
 		footer {
