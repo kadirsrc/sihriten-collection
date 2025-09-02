@@ -45,6 +45,7 @@
   }
 
   .container {
+    box-sizing: border-box;
     text-align: center;
     max-width: 300px;
     padding: 2rem;
