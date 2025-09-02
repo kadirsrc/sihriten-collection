@@ -6,7 +6,7 @@
   let interval;
 
   const launchDate = new Date();
-  launchDate.setDate(launchDate.getDate() + 30);
+  launchDate.setDate(launchDate.getDate() + 60);
 
   const updateCountdown = () => {
     const now = new Date();
