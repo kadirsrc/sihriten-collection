@@ -46,7 +46,7 @@
 
   .container {
     text-align: center;
-    max-width: 500px;
+    max-width: 300px;
     padding: 2rem;
     background: white;
     border-radius: 1rem;
