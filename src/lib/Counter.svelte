@@ -47,7 +47,7 @@
   .container {
     box-sizing: border-box;
     text-align: center;
-    max-width: 300px;
+    max-width: 500px;
     padding: 2rem;
     background: white;
     border-radius: 1rem;
